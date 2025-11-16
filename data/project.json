@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "rebeccapittam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51378113?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "rebeccapittam",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-11-16T22:17:53.460Z",
-    "updated_at": "2025-11-16T22:17:53.460Z"
-  }
+    "updated_at": "2025-11-16T22:17:53.460Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "77f2f367-2c41-4d08-8534-26db689af0e6": {
+      "content": [],
+      "created_at": "2025-11-16T22:17:53.483Z",
+      "created_by": "rebeccapittam",
+      "title": "TEST",
+      "updated_at": "2025-11-16T22:17:53.483Z",
+      "updated_by": "rebeccapittam",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "77f2f367-2c41-4d08-8534-26db689af0e6"
+  ]
 }
